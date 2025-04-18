@@ -1,5 +1,7 @@
 ### Yo i'm andres, i'm intreseted in coding and iOS preservation
 
+# [youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
+
 ## current projects:
 - [BackupBot](https://backupbot.org)
 - [Archive.org Discord Bot](https://github.com/Andres9890/Archive.org-Uploading-Discord-Bot)
