@@ -6,7 +6,7 @@
 - [BackupBot](https://backupbot.net/)
 - [Archive.org Discord Bot](https://github.com/Andres9890/Archive.org-Uploading-Discord-Bot)
 - [simple iOS file archive](https://github.com/Andres9890/ipa-archive)
-- [IPA Encryption Checker website](https://github.com/Andres9890/ipa-encryption-checker)
+- [IPA Encryption Checker](https://github.com/Andres9890/ipa-encryption-checker)
 
 looking to make more projects in the future
 
