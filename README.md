@@ -1,6 +1,6 @@
-### Yo i'm andres, i'm intreseted in coding and iOS preservation
+### Yo i'm Andres99, i'm intreseted in coding and iOS preservation
 
-[youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
+[My Youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
 
 ## current projects:
 - [BackupBot](https://backupbot.net/)
