@@ -2,14 +2,14 @@
 
 [My Youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
 
-## current projects:
+## Current projects:
 - [BackupBot](https://backupbot.net/)
 - [Archive.org Discord Bot](https://github.com/Andres9890/Archive.org-Uploading-Discord-Bot)
 - [simple iOS file archive](https://github.com/Andres9890/ipa-archive)
 - [IPA Encryption Checker](https://github.com/Andres9890/ipa-encryption-checker)
 - [Whisper on Github](https://github.com/Andres9890/Whisper-on-Github)
 
-looking to make more projects in the future
+looking to make more projects in the future, hopefully
 
 
 ## 🌐 Socials:
