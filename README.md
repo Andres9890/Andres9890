@@ -3,7 +3,7 @@
 [My Youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
 
 ## Current projects:
-- [BackupBot](https://backupbot.net/)
+- [BackupBot](https://github.com/BackupBotlol/BackupBot)
 - [Archive.org Uploading Discord Bot](https://github.com/Andres9890/ia-Uploading-Discord-Bot)
 - [iOS file archive](https://github.com/Andres9890/ipa-archive)
 - [IPA Encryption Checker](https://github.com/Andres9890/ipa-encryption-checker)
