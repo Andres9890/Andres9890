@@ -8,6 +8,7 @@
 - [iOS file archive](https://github.com/Andres9890/ipa-archive)
 - [IPA Encryption Checker](https://github.com/Andres9890/ipa-encryption-checker)
 - [Whisper on Github](https://github.com/Andres9890/Whisper-on-Github)
+- [Tubeup on Github](https://github.com/Andres9890/Tubeup-on-Github)
 
 looking to make more projects in the future, hopefully
 
