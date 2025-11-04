@@ -1,4 +1,4 @@
-### Yo i'm Andres99, i'm intreseted in coding and iOS preservation
+### Yo i'm Andres99, i'm intreseted in coding and preservation
 
 [My Youtube channel](https://youtube.com/@andres99.?si=6EqspmELdF9olo4o)
 
